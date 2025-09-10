@@ -83,20 +83,6 @@ High-performance backend for insurance transaction processing:
 - **Key Features:** Commission calculations with 99.99% accuracy, Legacy system integration
 - **Impact:** Reduced calculation time from minutes to under 5 seconds
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidrvx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidrvx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidrvx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ## 🎯 Professional Experience
 
 ### **Software Developer** @ Codonomy
