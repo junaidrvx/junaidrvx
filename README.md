@@ -117,9 +117,5 @@ I'm always excited to work on innovative projects and collaborate with fellow de
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=junaidrvx&color=blue&style=flat-square" alt="Profile Views" />
-</div>
-
-<div align="center">
   <i>⭐️ From <a href="https://github.com/junaidrvx">junaidrvx</a></i>
 </div>
