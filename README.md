@@ -1,11 +1,12 @@
 # 
 
-<!-- Animated Wave Header with Enhanced Typography -->
+
+<!-- Animated Title with Rainbow Effect and Custom Font -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,27,28,29&height=300&section=header&text=MUHAMMAD%20JUNAID&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=33&desc=🚀%20Full%20Stack%20Developer%20|%20⚡%20Software%20Engineer%20|%20💻%20React%20Specialist&descAlignY=51&descSize=25&animation=twinkling&fontFamily=Orbitron" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=2000&pause=1000&color=F77B00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=100&lines=%E2%9C%A8+Welcome+to+My+Digital+Universe+%E2%9C%A8;Where+Code+Meets+Innovation+%F0%9F%8E%A8" alt="Typing SVG" />
+  </a>
 </div>
-
-
 
 <!-- Animated Social Links -->
 <div align="center">
