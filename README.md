@@ -246,28 +246,6 @@
 
 </div>
 
-<!-- Animated Statistics -->
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=junaidch249&show_icons=true&count_private=true&hide_border=true&title_color=ff6b6b&icon_color=4ecdc4&text_color=c9d1d9&bg_color=0d1117" alt="Junaid's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidch249&layout=compact&hide_border=true&title_color=ff6b6b&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidch249&theme=radical&hide_border=true&stroke=0000&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=4ecdc4" alt="GitHub Streak" />
-</div>
-
-<!-- Contribution Graph with Animation -->
-<div align="center">
-  <h2 style="font-family: 'Bebas Neue', cursive; font-size: 2em;">🔥 Contribution Heatmap</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junaidch249&custom_title=Junaid's%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true&area_color=ff6b6b" alt="Contribution Graph" />
-</div>
-
 <!-- Snake animation -->
 <div align="center">
   <h2 style="font-family: 'Bebas Neue', cursive; font-size: 2em;">🐍 Watch My Contributions Snake</h2>
