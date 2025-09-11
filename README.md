@@ -11,13 +11,13 @@
 <!-- Animated Social Links -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  <a href="https://linkedin.com/in/muhammad-junaid">
+  <a href="https://www.linkedin.com/in/muhammad-junaid-35b562232/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/junaidch249">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:junaidch249249@gmail.com">
+  <a href="mailto:junaid.rvx@gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
@@ -159,12 +159,6 @@
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-3cd8d403-a033-4b19-862b-2859531e8e18.gif" width="100%">
-
-## 🏆 Trophy Cabinet & Achievements
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=junaidch249&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🎯 Impact Metrics
 
@@ -328,7 +322,7 @@ graph LR
   
   <div style="font-family: 'Ubuntu', sans-serif; font-size: 1.1em;">
     
-  📧 **Email:** junaidch249249@gmail.com  
+  📧 **Email:** junaid.rvx@gmail.com  
   📱 **Phone:** +92-326-1710249  
   📍 **Location:** Islamabad, Pakistan  
   💼 **Open for:** Full-time Opportunities | Freelance Projects | Collaborations
@@ -340,7 +334,7 @@ graph LR
   <a href="https://linkedin.com/in/muhammad-junaid">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:junaidch249249@gmail.com">
+  <a href="mailto:junaid.rvx@gmail.com">
     <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
